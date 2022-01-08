@@ -22,14 +22,14 @@
         position: absolute;
         font-size: 2rem;
         right: 0;
-        top: 0.6%;
-        margin: 1rem;
+        top: 0%;
+        margin: .9rem;
         cursor: pointer;
         
     }
     
     .services-section {
-        height: 170vh;
+        height: 250vh;
     }
     
     .content {
@@ -72,6 +72,7 @@
    
     
 }
+
 
 
 
